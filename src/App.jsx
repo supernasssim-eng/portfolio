@@ -30,7 +30,7 @@ const projets = [
     titre: "🎲 Générateur de Nombres",
     description: "Application qui génère des nombres aléatoires entre 1 et 100 avec un historique des résultats.",
     technologies: ["React", "useState", "JavaScript"],
-    lien: "https://generateur-nomres.vercel.app",
+    lien: "https://generateur-nombres.vercel.app",
     couleur: "#2ecc71"
   }
 ];
