@@ -32,6 +32,14 @@ const projets = [
     technologies: ["React", "useState", "JavaScript"],
     lien: "https://generateur-nombres.vercel.app",
     couleur: "#2ecc71"
+  },
+  {
+    id: 5,
+    titre: "📒 Carnet de Contacts",
+    description: "Application pour gérer ses contacts avec ajout et suppression. Réalisée avec React et Tailwind CSS.",
+    technologies: ["React", "Tailwind CSS", "useState"],
+    lien: "https://carnet-contacts.vercel.app",
+    couleur: "#2ecc71"
   }
 ];
 
